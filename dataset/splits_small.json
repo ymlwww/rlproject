@@ -1,0 +1,12 @@
+[
+    {
+        "test_keys": [
+            "clip_scene0000_00_0",
+            "clip_scene0000_00_1",
+            "clip_scene0000_00_3"
+        ],
+        "train_keys": [
+            "clip_scene0000_00_2"
+        ]
+    }
+]
